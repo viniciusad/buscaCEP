@@ -11,7 +11,7 @@
 </p>
 
 # buscaCEP
-https://viniciusad.com/p/buscacep
+https://viniciusad.com/p/buscacep/index.html
 <h1 float="left">
 <img src="https://raw.githubusercontent.com/viniciusad/buscaCEP/master/assets/interface.gif" width="30%">
 <img src="https://raw.githubusercontent.com/viniciusad/buscaCEP/master/assets/responsive.gif" width="40%">
