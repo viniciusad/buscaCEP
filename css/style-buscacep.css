@@ -94,7 +94,7 @@ button {
 
 .social-footer {
   padding: 1rem;
-  background: #000;
+  background: #222;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -119,12 +119,12 @@ button {
   margin-right: 0;
 }
 
-.social-footer .social-footer-icons .fa {
-  font-size: 3.3rem;
-  color: #fefefe;
+.social-footer .social-footer-icons .fab {
+  font-size: 3.3em;
+  color: #fff;
 }
 
-.social-footer .social-footer-icons .fa:hover {
+.social-footer .social-footer-icons .fab:hover {
   color: #cb925c;
-  transition: color 0.3s ease-in;
+  transition: color 0.2s ease-in;
 }
