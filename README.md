@@ -36,12 +36,15 @@ function buscaCep(cep) {
   })
  }
 ```
-<br>
+
+
 ## Responsivo e aceita apenas números
+
+<p align="center"
 <a href="https://viniciusad.com/p/buscacep/index.html">
   <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/busca-cep.gif?raw=true" width="400px">
 </a>
-<br>
-<br>
+</p>
+
 ## 📧 Contato
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusad/)](https://www.linkedin.com/in/viniciusad/)
