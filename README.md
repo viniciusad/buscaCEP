@@ -12,11 +12,12 @@
 
 Código javascript utiliza a API ViaCEP para localizar os dados.
 <br>
+<br>
 <a href="https://viacep.com.br/">
   <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/viacep.png?raw=true">
 </a>
 <br>
-'''javascript
+```javascript
 function buscaCep(cep) {
  fetch(`https://viacep.com.br/ws/${cep}/json/`)
  .then(r => r.json())
@@ -34,9 +35,12 @@ function buscaCep(cep) {
      }
   })
  }
-'''
+```
 <br>
-<img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/busca-cep.gif?raw=true" width="340px" align="center">
+## Responsivo e aceita apenas números
+<a href="https://viniciusad.com/p/buscacep/index.html">
+  <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/busca-cep.gif?raw=true" width="400px">
+</a>
 <br>
 <br>
 ## 📧 Contato
