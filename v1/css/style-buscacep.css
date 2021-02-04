@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Rubik", sans-serif;
+  color: #fff;
+}
+
+body {
+  background: #000;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.principal {
+  width: 70%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  justify-content: center;
+  background-color: #282a36;
+  padding: 30px;
+  border-radius: 15px;
+}
+form .inline {
+  display: inline-block;
+}
+.inline {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  vertical-align: center;
+}
+.buscador h1 {
+  font-size: 4rem;
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: #fff;
+}
+
+form label {
+  font-size: 2em;
+}
+
+form input {
+  padding: 5px;
+  font-size: 2em;
+  width: 200px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+form label,
+form button {
+  display: block;
+}
+
+button {
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 5px;
+  font-size: 2em;
+  background: #cb925c;
+  color: #282a36;
+  margin-bottom: 15px;
+}
+
+#dadosCep h2 {
+  font-size: 2.4rem;
+  margin-top: 8px;
+  font-weight: 400;
+  color: #cb925c;
+}
+
+#dadosCep p {
+  font-size: 2rem;
+  color: #d8dcd6;
+}
+
+/*========== FOOTER ========== */
+
+.social-footer {
+  padding: 1rem;
+  background: #222;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.social-footer-left img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.social-footer-icons li {
+  text-decoration: none;
+  display: inline;
+  margin-left: 15px;
+}
+.social-footer .social-footer-icons li:last-of-type {
+  margin-right: 0;
+}
+
+.social-footer .social-footer-icons .fab {
+  font-size: 3.3em;
+  color: #fff;
+}
+
+.social-footer .social-footer-icons .fab:hover {
+  color: #cb925c;
+  transition: color 0.2s ease-in;
+}
