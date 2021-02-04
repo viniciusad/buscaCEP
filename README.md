@@ -41,7 +41,7 @@ function buscaCep(cep) {
 ### https://viniciusad.com/p/buscacep/index.html
 <br>
 <p align="center"
-   <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/busca-cep.gif?raw=true" width="400px">
+   <img src="https://github.com/viniciusad/buscaCEP/raw/master/assets/busca-cep.gif" width="400px">
 </p>
 
 ## 📧 Contato
