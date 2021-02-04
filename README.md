@@ -1,7 +1,6 @@
 <p  align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/viniciusad/buscaCEP?style=for-the-badge">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/viniciusad/buscaCEP?style=for-the-badge">
-  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/viniciusad/buscaCEP?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/viniciusad/buscaCEP?style=for-the-badge">
   <img alt="GitHub" src="https://img.shields.io/github/license/viniciusad/buscaCEP?style=for-the-badge">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/viniciusad/buscaCEP?style=for-the-badge">
