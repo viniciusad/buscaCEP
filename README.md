@@ -37,12 +37,11 @@ function buscaCep(cep) {
 ```
 
 
-## Responsivo e aceita apenas números
-
+## 🔗 Responsivo e aceita apenas números
+### https://viniciusad.com/p/buscacep/index.html
+<br>
 <p align="center"
-<a href="https://viniciusad.com/p/buscacep/index.html">
-  <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/busca-cep.gif?raw=true" width="400px">
-</a>
+   <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/busca-cep.gif" width="400px">
 </p>
 
 ## 📧 Contato
