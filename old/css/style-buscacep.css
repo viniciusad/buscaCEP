@@ -10,11 +10,7 @@ html,
 }
 body {
   font-family: "Rubik", sans-serif;
-  /* background: linear-gradient(#a6cede, #96a4df 90%); */
-  background-image: url("https://raw.githubusercontent.com/viniciusad/buscaCEP/master/assets/brasil-satelite.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  backdrop-filter: blur(8px);
+  background: linear-gradient(#a6cede, #96a4df 90%);
 }
 .body {
   display: flex;
@@ -63,7 +59,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: background-color 0.5s ease;
-  background-color: rgba(0, 255, 0, 0.5);
+  background-color: rgba(0, 255, 0, 0.3);
   cursor: pointer;
 }
 .apagarcep {
@@ -77,20 +73,20 @@ body {
   align-items: center;
   justify-content: center;
   transition: background-color 0.5s ease;
-  background-color: rgba(255, 0, 0, 0.5);
+  background-color: rgba(255, 0, 0, 0.3);
   cursor: pointer;
 }
 .buscarcepp:hover {
-  background-color: green;
+    background-color: green;
 }
 .apagarcep:hover {
-  background-color: red;
+    background-color: red;
 }
 .endereco {
   padding: 15px;
   margin: 10px;
   width: 70%;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   margin: 0 0 85px 0;
   display: flex;
@@ -103,35 +99,34 @@ body {
 }
 .endereco h2 {
   font-size: 1.4em;
-  font-weight: 700;
+  font-weight: 800;
   margin: 0 auto;
-  color: rgb(181, 181, 181);
+  color: #000;
 }
 .endereco p {
   font-size: 1em;
   font-weight: 400;
   margin: 0 auto;
-  color: #fff;
+  color: #000;
 }
 #erro {
-  font-size: 1.1em;
-  font-weight: 800;
-  color: rgba(255, 0, 0, 0.9);
-  padding: 8px 0;
-  margin: 0;
+    font-size: 1.1em;
+    font-weight: 800;
+    color: rgba(255, 0, 0, 0.9);
+    padding: 8px 0;
+    margin: 0;
 }
 #copyButton {
   text-align: center;
   font-size: 1em;
-  color: rgb(181, 181, 181);
-  font-weight: 800;
+  color: #000;
   border: none;
   margin: 8px;
-  padding: 1px;
+  padding: 3px;
   letter-spacing: 1.5px;
   border-radius: 5px;
   height: 30px;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.2);
   cursor: pointer;
   justify-content: center;
 }
@@ -140,7 +135,7 @@ body {
   transition-duration: 0.3s;
 }
 .fa-copy {
-  padding: 0 5px;
+    padding: 0 5px;
 }
 
 /*========== FOOTER ========== */
@@ -189,12 +184,12 @@ body {
 .author a {
   font-size: 0.9em;
 }
-.footer p:hover,
-.footer a:hover,
+.footer p:hover, 
+.footer a:hover, 
 .footer i:hover {
-  transform: scale(1.2);
-  transition: all 0.2s ease-in-out;
-  color: #96a4df;
+    transform: scale(1.2);
+    transition: all .2s ease-in-out;
+    color: #96a4df;
 }
 .social-links {
   display: flex;
