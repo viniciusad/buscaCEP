@@ -13,7 +13,7 @@ Código javascript utiliza a API ViaCEP para localizar os dados.
 <br>
 <br>
 <a href="https://viacep.com.br/">
-  <img src="https://github.com/viniciusad/buscaCEP/blob/master/assets/viacep.png?raw=true">
+  <img src="https://viacep.com.br/estatico/images/viacep.png.pagespeed.ce.I80LiA6qpr.png">
 </a>
 <br>
 ```javascript
@@ -39,7 +39,7 @@ function buscaCep(cep) {
 ## 🔗 Responsivo e aceita apenas números
 ### https://viniciusad.com/p/buscacep/index.html
 <br>
-<img align="center" src="https://github.com/viniciusad/buscaCEP/raw/master/assets/busca-cep.gif" width="400px">
+<img align="center" src="https://github.com/viniciusad/buscaCEP/raw/master/assets/BuscaCEP.gif" width="400px">
 
 ## 📧 Contato
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusad/)](https://www.linkedin.com/in/viniciusad/)
