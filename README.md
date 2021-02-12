@@ -13,7 +13,7 @@ Código javascript utiliza a API ViaCEP para localizar os dados.
 <br>
 <br>
 <a href="https://viacep.com.br/">
-  <img src="https://viacep.com.br/estatico/images/viacep.png.pagespeed.ce.I80LiA6qpr.png">
+  <img src="https://viacep.com.br/estatico/images/viacep.png.pagespeed.ce.I80LiA6qpr.png" background-color="green">
 </a>
 <br>
 ```javascript
